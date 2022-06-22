@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhijeetkur
-- 👀 I’m interested in ...artificial intelligence and machine learning.
+- 👀 I’m interested in ...artificial intelligence and machine learning
 - 🌱 I’m currently learning ...machine learning and cloud computing 
 - 💞️ I’m looking to collaborate on ...machine learning 
 - 📫 How to reach me ...ak9111709@gmail.com
