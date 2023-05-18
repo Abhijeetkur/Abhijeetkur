@@ -13,8 +13,6 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Touchless Restaurant**
-
 - ⚡ Fun fact **I am not a funny guy😁**
 
 <h3 align="left">Connect with me:</h3>
