@@ -28,8 +28,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Buy me a cup of Coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a cup of Coffee" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeetkur&show_icons=true&locale=en&layout=compact" alt="abhijeetkur" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetkur&exclude_repo=github-readme-stats,abhijeetkur.github.io)](https://github.com/abhijeetkur/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetkur&show_icons=true&locale=en" alt="abhijeetkur" /></p>
+[![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijeetkur)](https://github.com/abhijeetkur/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetkur&" alt="abhijeetkur" /></p>
