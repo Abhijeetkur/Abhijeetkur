@@ -1,6 +1,6 @@
 
 
-# Hello World!, I'm Abhijeet, a Software Developer 👋🏼:
+# Hello World!, I'm Abhijeet, a Software Developer 👋🏼
 
 
 # 💻 Tech Stack:
